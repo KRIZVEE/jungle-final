@@ -23,6 +23,6 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 ## Final Product
 
-!["All Categories"](https://github.com/KRIZVEE/jungle-master/blob/master/docs/all%20products.png)
-!["Apparel Category"](https://github.com/KRIZVEE/jungle-master/blob/master/docs/Apparel%20category.png)
-!["Cart"](https://github.com/KRIZVEE/jungle-master/blob/master/docs/cart.png)
+!["All Categories"](https://github.com/KRIZVEE/jungle-final/blob/master/docs/all%20products.png)
+!["Apparel Category"](https://github.com/KRIZVEE/jungle-final/blob/master/docs/Apparel%20category.png)
+!["Cart"](https://github.com/KRIZVEE/jungle-final/blob/master/docs/cart.png)
